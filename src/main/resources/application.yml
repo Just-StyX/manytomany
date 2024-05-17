@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost/database
+    password: password
+    username: username
+
+logging:
+  level:
+    root: warn
